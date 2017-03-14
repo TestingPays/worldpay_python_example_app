@@ -12,7 +12,7 @@ $(function () {
   });
 
   Worldpay.useOwnForm({
-    'clientKey': 'T_C_07155e56-e159-45e8-9632-74ae1388e1a7',
+    'clientKey': '<insert your worldpay clientkey here>',
     'form': document.getElementById('worldpay-form'),
     'reusable': true,
     'callback': worldpayResponseHandler
