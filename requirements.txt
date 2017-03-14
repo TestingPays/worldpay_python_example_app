@@ -1,0 +1,9 @@
+appdirs==1.4.3
+Django==1.10.6
+packaging==16.8
+pyparsing==2.2.0
+realex==0.1
+requests==2.13.0
+six==1.10.0
+worldpay==0.1
+xmltodict==0.10.2
